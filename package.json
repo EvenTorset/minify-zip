@@ -1,0 +1,18 @@
+{
+  "name": "minify-zip",
+  "version": "1.0.0",
+  "description": "Remove unnecessary parts of ZIP files easily.",
+  "main": "minify-zip.js",
+  "type": "module",
+  "bin": {
+    "minify-zip": "./cli.js"
+  },
+  "keywords": [
+    "zip",
+    "compression",
+    "minify"
+  ],
+  "author": "Even Torset",
+  "license": "ISC",
+  "repository": "github:EvenTorset/minify-zip"
+}
