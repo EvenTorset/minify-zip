@@ -19,7 +19,7 @@ If any of these apply to a ZIP file, minifying it will remove parts that may be 
 Some tools may require some of these parts for extra functionality. For example, 7-Zip uses the extra fields to store things like the creation date for files, which is not essential, but allows 7-Zip to display the date in the GUI and to add it to the file when extracting.
 
 ## Installation
-To use the JavaScript API, install the package the like most NPM packages:
+To use the JavaScript API, install the package like most NPM packages:
 ```bash
 npm i minify-zip
 ```
