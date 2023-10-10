@@ -5,7 +5,7 @@
   "main": "minify-zip.js",
   "type": "module",
   "bin": {
-    "minify-zip": "./cli.js"
+    "minify-zip": "cli.js"
   },
   "keywords": [
     "zip",
@@ -14,5 +14,8 @@
   ],
   "author": "Even Torset",
   "license": "ISC",
-  "repository": "github:EvenTorset/minify-zip"
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EvenTorset/minify-zip.git"
+  }
 }
