@@ -1,6 +1,6 @@
 {
   "name": "minify-zip",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Remove unnecessary parts of ZIP files easily.",
   "main": "minify-zip.js",
   "type": "module",
