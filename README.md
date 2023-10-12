@@ -40,7 +40,7 @@ This minifies any number of ZIP files in place. Make sure to back up any importa
 
 Example:
 ```
-> minify example.zip
+> minify-zip example.zip
 D:\Examples\example.zip
 Minify time: 1.136ms
 Before:      3578 bytes
